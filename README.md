@@ -26,22 +26,19 @@
   - **MySQL** for database management
 - **Frontend**: 
   - **HTML**, **CSS**, and **JavaScript**
-  - **Bootstrap** for responsive design
 - **Development Tools**:
   - **Eclipse** IDE for Java development
   - **Apache Tomcat** for servlet support
-  - **XAMPP** for MySQL database
   - **MySQL Workbench** for database management and query execution
 
 ## Setup & Installation
 
 ### Prerequisites:
 - **Eclipse** IDE or any Java IDE that supports J2EE development.
-- **XAMPP** or any local server solution for MySQL database.
 - **Apache Tomcat** or any servlet container.
 - **MySQL Workbench** to manage the MySQL database and execute queries.
 
 ### Installation Instructions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/BankConnect.git
+   git clone https://github.com/MateenRabiBaig/BankConnect---J2EE-Banking-Application.git
